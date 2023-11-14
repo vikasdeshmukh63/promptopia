@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). You can check the deployed project on [vercel](https://promptopia-iota-lac.vercel.app/).
 
-![image](https://github.com/vikasdeshmukh63/promptopia/assets/114295008/c05e2e44-593c-4336-b3bc-6a6a62049409)
+![image](https://github.com/vikasdeshmukh63/promptopia/assets/114295008/3c337388-e24d-4e71-9bb7-70bb8faab5cf)
 
 
 ## Getting Started
