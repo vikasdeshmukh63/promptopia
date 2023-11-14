@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 // import necessary React components and styles
 import React, { useState, useEffect } from 'react';
@@ -33,7 +33,9 @@ const Feed = () => {
      // function to fetch prompts data
      const fetchPost = async () => {
           try {
-               const response = await fetch('/api/prompt');
+               const response = await fetch('/api/prompt', {
+                    cache: 'no-store'
+               });
                const data = await response.json();
                setPost(data);
           } catch (error) {
